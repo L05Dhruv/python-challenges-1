@@ -1,4 +1,4 @@
-# python-challenges-1
+# Python I Challenges
 ### Learn the python syntax and create some basic - intermediate algorithms with Python!
 
 ## Instructions:
