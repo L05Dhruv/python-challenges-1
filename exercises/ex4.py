@@ -3,7 +3,7 @@
 
 def main():
     # everything should be inside main()
-    # function (calculate_area) should calculate the area of a circle. takes 1 parameter 'radius'
+    # create a function (calculate_area) on the next line that calculates the area of a circle. takes 1 parameter 'radius'
 
 
     # uncomment the following to test your code:

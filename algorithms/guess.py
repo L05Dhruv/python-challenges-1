@@ -1,4 +1,4 @@
-# Write a program that generates a random number between 1 and 100 and asks the user to guess it.
+# Write a function that generates a random number between 1 and 100 and asks the user to guess it.
 # Provide feedback to the user after each guess (e.g., "Too high!" or "Too low!").
 # The game continues until the user guesses the correct number.
 #

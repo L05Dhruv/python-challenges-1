@@ -1,5 +1,5 @@
 # Tuples
-# Create a function that takes a tuple of strings as input and returns a new tuple 
+# Implement a function that takes a tuple of strings as input and returns a new tuple 
 # containing only the strings that start with an uppercase letter.
 
 def filter_uppercase_strings(strings):

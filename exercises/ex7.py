@@ -1,5 +1,5 @@
 # Sets
-# Create a function that takes two sets of integers as input and returns 
+# Implement a function that takes two sets of integers as input and returns 
 # a new set containing the intersection of the two sets.
 
 def find_intersection(set1, set2):
@@ -16,7 +16,8 @@ print(find_intersection(set1, set2))  # Expected output: {4, 5}
 # ----------------------------------------------------------------------------------------------------------
 
 
-# Create a function that takes two sets of integers as input and returns a new set containing the unique elements from both sets.
+# Implement a function that takes two sets of integers as input and returns a new set containing 
+# the unique elements from both sets.
 
 def merge_sets(set1, set2):
     # Your code here
